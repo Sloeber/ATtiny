@@ -1,1 +1,1 @@
-[See Documentation](https://github.com/Sloeber/ATtiny/wiki/Arduino-Uno-Programmer)
+[See Documentation](https://github.com/Sloeber/ATtiny/wiki/Proximity)
