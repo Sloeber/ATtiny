@@ -9,6 +9,7 @@ Feel free to contribute to this repository by sending pull requests for your ATt
 ## Simple Projects
 * [Blink](https://github.com/Sloeber/ATtiny/wiki/Blink)
 * [Analog Spy](https://github.com/Sloeber/ATtiny/Analog-Spy)
+* [Proximity Sensor](https://github.com/Sloeber/ATtiny/wiki/Proximity)
 
 ## Advanced projects
 * [Using the ledControl library to program the MAX2719 LED Matrix Driver](https://github.com/Sloeber/ATtiny/wiki/ledmatrix4)
